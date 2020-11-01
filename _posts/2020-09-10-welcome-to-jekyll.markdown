@@ -13,6 +13,7 @@ categories: new year resolutions
 * A Midsummer Night's Dream by William Shakespeare
 * Nudge by Richard H. Thaler and Cass R. Sunstein
 * The Ride of a Lifetime by Robert Iger
+* On Tyranny - Twenty Lessons from the Twentieth Century by Timothy Snyder
 * Try 30 New Restaurants
 
 ## Complete All 3 Korean Made Simple Books
