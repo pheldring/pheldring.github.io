@@ -6,15 +6,14 @@ categories: new year resolutions
 ---
 
 ## Read 25 Books
-* Sex at Dawn by Christopher Ryan and Cacilda Jethá
-* Talking to Strangers by Malcom Gladwell
-* A Random Walk Down Wall Street by Burton Malkiel
-* Thinking Fast and Slow by Daniel Kahneman
-* A Midsummer Night's Dream by William Shakespeare
-* Nudge by Richard H. Thaler and Cass R. Sunstein
-* The Ride of a Lifetime by Robert Iger
-* On Tyranny - Twenty Lessons from the Twentieth Century by Timothy Snyder
-* Try 30 New Restaurants
+1. Sex at Dawn by Christopher Ryan and Cacilda Jethá
+2. Talking to Strangers by Malcom Gladwell
+3. A Random Walk Down Wall Street by Burton Malkiel
+4. Thinking Fast and Slow by Daniel Kahneman
+5. A Midsummer Night's Dream by William Shakespeare
+6. Nudge by Richard H. Thaler and Cass R. Sunstein
+7. The Ride of a Lifetime by Robert Iger
+8. On Tyranny - Twenty Lessons from the Twentieth Century by Timothy Snyder
 
 ## Complete All 3 Korean Made Simple Books
 * Read Korean Made Simple 1 and Korean Made Simple 2
