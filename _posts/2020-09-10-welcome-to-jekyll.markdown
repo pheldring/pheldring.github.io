@@ -14,6 +14,7 @@ categories: new year resolutions
 6. Nudge by Richard H. Thaler and Cass R. Sunstein
 7. The Ride of a Lifetime by Robert Iger
 8. On Tyranny - Twenty Lessons from the Twentieth Century by Timothy Snyder
+9. 1984 by George Orwell
 
 ## Complete All 3 Korean Made Simple Books
 * Read Korean Made Simple 1 and Korean Made Simple 2
