@@ -15,6 +15,7 @@ categories: new year resolutions
 7. The Ride of a Lifetime by Robert Iger
 8. On Tyranny - Twenty Lessons from the Twentieth Century by Timothy Snyder
 9. 1984 by George Orwell
+10. A Concise History of Korea - From Antiquity to the Present by Michael J. Seth
 
 ## Complete All 3 Korean Made Simple Books
 * Read Korean Made Simple 1 and Korean Made Simple 2
