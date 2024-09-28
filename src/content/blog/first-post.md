@@ -1,7 +1,7 @@
 ---
 title: '2020 New Year's Resolutions'
 description: 'Lorem ipsum dolor sit amet'
-pubDate: 'September 10 2020'
+pubDate: 'Jul 08 2022'
 heroImage: '/blog-placeholder-3.jpg'
 ---
 
